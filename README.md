@@ -3,10 +3,10 @@
 
 ## Listen up | Music Library
 
-##Deployment Link
-# https://musicdiscoverylibrary.netlify.app
+## Deployment Link
+ https://musicdiscoverylibrary.netlify.app
 
-#Timeline 
+# Timeline 
 1 Week Project - Solo
 
 ## Project Brief 
